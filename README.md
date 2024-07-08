@@ -51,10 +51,10 @@ Used a relational database i.e PostgreSQL.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/eKidenge/JOURNAL.git
+$ git clone https://github.com/eKidenge/PERSONAL-JOURNAL.git
 
 # Go into the repository
-$ cd JOURNAL
+$ cd PERSONAL-JOURNAL
 
 # Go into backend
 $ cd backend
